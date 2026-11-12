@@ -5,7 +5,7 @@
 ## Overview
 This project is an end-to-end data analytics pipeline that transforms raw retail transaction logs into an interactive executive dashboard. Built using the Dunnhumby "The Complete Journey" dataset, this project demonstrates full-stack data analyst capabilities: data engineering with Python, relational database architecture with MySQL, and business intelligence visualization with Power BI.
 
-![Dashboard Preview](https://app.powerbi.com/groups/me/reports/9c844ca2-5937-4478-bd99-a9297b66621c/1b5a6363eacff52daf52?experience=power-bi)
+![Dashboard Preview](C:\Users\swami\OneDrive\Desktop)
 
 ## Tech Stack
 * **Data Extraction & Transformation:** Python (Pandas, NumPy, SQLAlchemy)
