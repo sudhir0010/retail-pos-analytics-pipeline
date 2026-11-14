@@ -26,7 +26,7 @@ This project is an end-to-end data analytics pipeline that transforms raw retail
 * **UX Controls:** Configured bookmark-driven "Reset Filters" functionality for a seamless user experience.
 
 ## Repository Contents
-* `etl_pipeline.ipynb`: Python scripts for data cleaning and SQL database insertion.
+* `Data cleaning.ipynb`: Python scripts for data cleaning and SQL database insertion.
 * `schema.sql`: MySQL DDL statements for creating the star schema.
 * `retail_dashboard.pbix`: The final Power BI project file.
 * `images/`: Folder containing high-resolution dashboard screenshots.
